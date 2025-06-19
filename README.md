@@ -1,5 +1,4 @@
 # golf_project
-
 # 프로젝트명
 - 🏌️‍♀️ 골프 동작 인식 모델 (YOLO v8 Pose + ST-GCN)
 
