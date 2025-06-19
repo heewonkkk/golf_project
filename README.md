@@ -171,7 +171,7 @@
       - 정확도/손실 그래프  
       ![ST-GCN 2차 학습](./images/ST-GCN/st_gcn_2nd.png)
       - Confusion Matrix  
-      ![ST-GCN 2차 Confusion Matrix](./images/ST-GCN/st-gcn_2nd_confusionmatrix.png)
+      ![ST-GCN 2차 Confusion Matrix](./images/ST-GCN/st-gcn_2n_confusionmatrix.png)
   - **2차 실험 상세 결과**
 | 클래스      | Precision | Recall | F1-score | Support |
 | ----------- | --------- | ------ | -------- | ------- |
